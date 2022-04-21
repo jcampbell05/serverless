@@ -56,7 +56,7 @@
   "Examples and Tutorials": "getting-started",
   "Cloud Providers": {
     "Overview": "providers",
-    "AWS": "providers",
+    "AWS": "providers/aws",
     "Azure": {
       "Overview": "providers/azure",
       "CLI Reference": {
